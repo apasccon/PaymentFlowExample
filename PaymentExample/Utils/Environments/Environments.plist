@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dev</key>
+	<dict>
+		<key>api_key</key>
+		<string>444a9ef5-8a6b-429f-abdf-587639155d88</string>
+		<key>api_base_url</key>
+		<string>https://api.mercadopago.com/v1</string>
+	</dict>
+	<key>staging</key>
+	<dict>
+		<key>api_key</key>
+		<string></string>
+		<key>api_base_url</key>
+		<string></string>
+	</dict>
+	<key>production</key>
+	<dict>
+		<key>api_key</key>
+		<string></string>
+		<key>api_base_url</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
